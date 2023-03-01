@@ -1,0 +1,2856 @@
+Open "https://blc-cms.stage.tllms.com/" Portal using Chrome
+login to CMS Portal
+Open "https://blc-cms.stage.tllms.com/" Portal using Chrome
+login to CMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'Sign in' button
+Enter 'config:login>email' as text for 'sign in email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Refresh the page
+wait for 5 seconds
+Click on 'gif' button
+Click on 'Upload Gif' button
+Enter 'Auto_Gif<dynamic>' as text for 'Name'
+Open "https://blc-cms.stage.tllms.com/" Portal using Chrome
+login to CMS Portal
+Open "https://blc-apps.stage.tllms.com/applications/batches-stage" Portal using Chrome
+Open "https://blc-apps.stage.tllms.com/applications/batches-stage" Portal using Chrome
+Open "https://blc-apps.stage.tllms.com/applications/batches-stage" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Open "https://blc-apps.stage.tllms.com/applications/batches-stage" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Open "https://blc-apps.stage.tllms.com/applications/batches-stage" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Open "https://blc-apps.stage.tllms.com/applications/batches-stage" Portal using Chrome
+Refresh the page
+login to BMS Portal
+Click on 'Login' button
+Open "https://blc-apps.stage.tllms.com/applications/batches-stage" Portal using Chrome
+Refresh the page
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+mouseHover on 'paid batches app'
+Open "https://blc-cms.stage.tllms.com/" Portal using Chrome
+login to CMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'Sign in' button
+Enter 'config:login>email' as text for 'sign in email'
+Open "https://blc-apps.stage.tllms.com/applications/batches-stage" Portal using Chrome
+Refresh the page
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+mouseHover on 'paid batches app'
+Open "https://blc-cms.stage.tllms.com/" Portal using Chrome
+login to CMS Portal
+wait for 5 seconds
+Click on 'gif' button
+Click on 'Upload Gif' button
+Enter 'Auto_Gif<dynamic>' as text for 'Name'
+Open "https://blc-cms.stage.tllms.com/" Portal using Chrome
+login to CMS Portal
+wait for 5 seconds
+Click on 'gif' button
+Click on 'Upload Gif' button
+Enter 'Auto_Gif<dynamic>' as text for 'Name'
+Open "https://blc-apps.stage.tllms.com/applications/batches-stage" Portal using Chrome
+Refresh the page
+login to BMS Portal
+Click on 'Login' button
+Open "https://blc-apps.stage.tllms.com/applications/batches-stage" Portal using Chrome
+Refresh the page
+login to BMS Portal
+Click on 'Login' button
+Open "BMS" Portal using Chrome
+Refresh the page
+login to BMS Portal
+Click on 'Login' button
+Open "BMS" Portal using Chrome
+Wait for 2 seconds
+Refresh the page
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+Open "BMS" Portal using Chrome
+Wait for 2 seconds
+Refresh the page
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox'
+Open "BMS" Portal using Chrome
+Wait for 2 seconds
+Refresh the page
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+mouseHover on 'paid batches app'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+mouseHover on 'paid batches app'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+mouseHover on 'paid batches app'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 5 seconds
+Validate 'Table body' with xpath '//textarea[contains(text(),'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022')]' is displayed
+Wait
+Refresh the page
+Wait for 5 seconds
+Click on 'searchdropdown' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 5 seconds
+Validate 'Table body' with xpath '//textarea[contains(text(),'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022')]' is displayed
+Wait
+Refresh the page
+Wait for 5 seconds
+Click on 'searchdropdown' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 5 seconds
+Validate 'Table body' with xpath '//textarea[contains(text(),'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022')]' is displayed
+Wait
+Refresh the page
+Wait for 5 seconds
+Click on 'searchdropdown' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 5 seconds
+Validate 'Table body' with xpath '//textarea[contains(text(),'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022')]' is displayed
+Wait
+Refresh the page
+Wait for 5 seconds
+Click on 'searchdropdown' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 5 seconds
+Validate 'Table body' with xpath '//textarea[contains(text(),'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022')]' is displayed
+Wait
+Refresh the page
+Wait for 5 seconds
+Click on 'searchdropdown' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 5 seconds
+Validate 'Table body' with xpath '//textarea[contains(text(),'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022')]' is displayed
+Wait
+Refresh the page
+Wait for 5 seconds
+Click on 'searchdropdown' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 5 seconds
+Validate 'Table body' with xpath '//textarea[contains(text(),'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022')]' is displayed
+Wait
+Refresh the page
+Wait for 5 seconds
+Click on 'searchdropdown' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 5 seconds
+Validate 'Table body' with xpath '//textarea[contains(text(),'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022')]' is displayed
+Wait
+Refresh the page
+Wait for 5 seconds
+Click on 'searchdropdown' button
+Wait for 5 seconds
+Click on 'id name dropdown' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 5 seconds
+Validate 'Table body' with xpath '//textarea[contains(text(),'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022')]' is displayed
+Wait
+Refresh the page
+Wait for 5 seconds
+Click on 'searchdropdown' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 5 seconds
+Validate 'Table body' with xpath '//textarea[contains(text(),'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022')]' is displayed
+Wait
+Refresh the page
+Wait for 5 seconds
+Click on 'searchdropdown' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 5 seconds
+Click on 'actionslot' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 10 seconds
+Click on 'actionslot' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 10 seconds
+Validate 'Table body' with xpath '//span[contains(text(),7615)]' is displayed
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 10 seconds
+Click on 'actionslot' button
+Wait for 10 seconds
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter '<batch_name>' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 10 seconds
+Click on 'actionslot' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 10 seconds
+Click on 'actionslot' button
+Wait for 10 seconds
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 10 seconds
+Click on 'actionslot' button
+Wait for 10 seconds
+mouseHover on 'enddate'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 10 seconds
+Click on 'actionslot' button
+Wait for 10 seconds
+mouseHover on 'enddate'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 10 seconds
+Click on 'actionslot' button
+Wait for 10 seconds
+mouseHover on 'enddate'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 10 seconds
+Click on 'actionslot' button
+Wait for 10 seconds
+mouseHover on 'enddate'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 10 seconds
+Click on 'actionslot' button
+Wait for 10 seconds
+mouseHover on 'enddate'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 10 seconds
+Click on 'actionslot' button
+Wait for 10 seconds
+mouseHover on 'ed'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 10 seconds
+Click on 'actionslot' button
+Wait for 10 seconds
+mouseHover on 'ed'
+Wait for 10 seconds
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'update' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'update' button
+Wait for 2 seconds
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'update' button
+Wait for 2 seconds
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'update' button
+Wait for 2 seconds
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'update' button
+Wait for 2 seconds
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'enclan' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'enclan' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on '24' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on '24' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on '24' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on '24' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on '24' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on '24' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '24'
+Wait for 2 seconds
+Click on 'effectivedate' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '24'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Enter '<topic>' as text for 'sea'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '24'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Click on 'topicdrop' button
+Click on 'topicvalue' button for '[384050] - 35745 - power'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '24'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Click on 'topicdrop' button
+Wait for 4 seconds
+Click on 'topicvalue' button for '[384050] - 35745 - power'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '24'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Click on 'topicdrop' button
+Wait for 4 seconds
+Click on 'topicvalue' button for '[384050] - 35745 - power'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '24'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Click on 'topicdrop' button
+Wait for 4 seconds
+Click on 'topicvalue' button for '[384050] - 35745 - power'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '24'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Click on 'topicdrop' button
+Wait for 4 seconds
+Click on 'topicvalue' button for '[384050] - 35745 - power'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '24'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Enter '[384050] - 35745 - power' as text for 'topicdrop'
+Wait for 4 seconds
+Click on 'topicvalue' button for '[384050] - 35745 - power'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '24'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Enter '[384050] - 35745 - power' as text for 'topicdrop'
+Wait for 4 seconds
+Select '[384050] - 35745 - power' in the 'topicvalue' list
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '24'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Enter '[384050] - 35745 - power' as text for 'topicdrop'
+Wait for 4 seconds
+Select '[384050] - 35745 - power' in the 'topicvalue' list
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '24'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Enter '[384050] - 35745 - power' as text for 'topicdrop'
+Wait for 2 seconds
+Select '[384050] - 35745 - power' in the 'topicvalue' list
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '24'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Enter '[384050] - 35745 - power' as text for 'topicdrop'
+Wait for 2 seconds
+Select '[384050] - 35745 - power' in the 'topicvalue' list
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '24'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Enter '[384050] - 35745 - power' as text for 'topicdrop'
+Wait for 2 seconds
+Select '[384050] - 35745 - power' in the 'topicvalue' list
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '24'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Enter '[384050] - 35745 - power' as text for 'topicdrop'
+Wait for 2 seconds
+Select '[384050] - 35745 - power' in the 'topicvalue' list
+Wait for 4 seconds
+Click on 'update' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '24'
+Wait for 2 seconds
+Click on 'radioclick' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '24'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Enter '[384050] - 35745 - power' as text for 'topicdrop'
+Wait for 2 seconds
+Select '[384050] - 35745 - power' in the 'topicvalue' list
+Wait for 4 seconds
+Click on 'update' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '24'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Enter '[384050] - 35745 - power' as text for 'topicdrop'
+Wait for 2 seconds
+Select '[384050] - 35745 - power' in the 'topicvalue' list
+Wait for 4 seconds
+Click on 'update' button
+Wait for 2 seconds
+Wait for 2 seconds
+switch to old window
+Wait for 2 seconds
+Click on 'first page' button
+Wait for 2 seconds
+mouseHover on 'timetable app'
+Click on 'launch' button for 'Timetable-Stage'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '24'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Enter '[384050] - 35745 - power' as text for 'topicdrop'
+Wait for 2 seconds
+Select '[384050] - 35745 - power' in the 'topicvalue' list
+Wait for 4 seconds
+Click on 'update' button
+Wait for 2 seconds
+Wait for 2 seconds
+Validate 'Batch updated successfully' is displayed
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '24'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Enter '[384050] - 35745 - power' as text for 'topicdrop'
+Wait for 2 seconds
+Select '[384050] - 35745 - power' in the 'topicvalue' list
+Wait for 4 seconds
+Click on 'update' button
+Wait for 2 seconds
+Wait for 2 seconds
+switch to old window
+Wait for 2 seconds
+Click on 'first page' button
+Wait for 2 seconds
+mouseHover on 'timetable app'
+Click on 'launch' button for 'Timetable-Stage'
+Wait for 2 seconds
+New window opens
+Wait for 5 seconds
+Enter '<Centre>' as text for 'tt centre drpdown'
+Wait for 2 seconds
+Select '<Centre>' in the 'tt centre name' list
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '24'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Enter '[384050] - 35745 - power' as text for 'topicdrop'
+Wait for 2 seconds
+Select '[384050] - 35745 - power' in the 'topicvalue' list
+Wait for 4 seconds
+Click on 'update' button
+Wait for 2 seconds
+Wait for 2 seconds
+switch to old window
+Wait for 2 seconds
+Click on 'first page' button
+Wait for 2 seconds
+mouseHover on 'timetable app'
+Click on 'launch' button for 'Timetable-Stage'
+Wait for 2 seconds
+Enter 'Elegance' as text for 'tt centre drpdown'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '24'
+Wait for 2 seconds
+Click on 'radioclick' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '25'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Enter '[384050] - 35745 - power' as text for 'topicdrop'
+Wait for 2 seconds
+Select '[384050] - 35745 - power' in the 'topicvalue' list
+Wait for 4 seconds
+Click on 'update' button
+Wait for 2 seconds
+Wait for 2 seconds
+switch to old window
+Wait for 2 seconds
+Click on 'first page' button
+Wait for 2 seconds
+mouseHover on 'timetable app'
+Click on 'launch' button for 'Timetable-Stage'
+Wait for 2 seconds
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '26'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Enter '[384050] - 35745 - power' as text for 'topicdrop'
+Wait for 2 seconds
+Select '[384050] - 35745 - power' in the 'topicvalue' list
+Wait for 4 seconds
+Click on 'update' button
+Wait for 2 seconds
+Wait for 2 seconds
+switch to old window
+Wait for 2 seconds
+Click on 'first page' button
+Wait for 2 seconds
+mouseHover on 'timetable app'
+Click on 'launch' button for 'Timetable-Stage'
+Wait for 2 seconds
+Enter 'Elegance' as text for 'tt centre drpdown'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '28'
+Wait for 2 seconds
+Click on 'radioclick' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '28'
+Wait for 2 seconds
+Click on 'radioclick' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '28'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Enter '[384050] - 35745 - power' as text for 'topicdrop'
+Wait for 2 seconds
+Select '[384050] - 35745 - power' in the 'topicvalue' list
+Wait for 4 seconds
+Click on 'update' button
+Wait for 2 seconds
+Wait for 2 seconds
+switch to old window
+Wait for 2 seconds
+Click on 'first page' button
+Wait for 2 seconds
+mouseHover on 'timetable app'
+Click on 'launch' button for 'Timetable-Stage'
+Wait for 3 seconds
+Enter 'Elegance' as text for 'tt centre dropdown'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '28'
+Wait for 2 seconds
+Click on 'radioclick' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '29'
+Wait for 2 seconds
+Click on 'radioclick' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '29'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Enter '[384050] - 35745 - power' as text for 'topicdrop'
+Wait for 2 seconds
+Select '[384050] - 35745 - power' in the 'topicvalue' list
+Wait for 4 seconds
+Click on 'update' button
+Wait for 2 seconds
+Wait for 2 seconds
+switch to old window
+Wait for 2 seconds
+Click on 'first page' button
+Wait for 2 seconds
+mouseHover on 'timetable app'
+Click on 'launch' button for 'Timetable-Stage'
+Wait for 3 seconds
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '29'
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Enter '[384050] - 35745 - power' as text for 'topicdrop'
+Wait for 2 seconds
+Select '[384050] - 35745 - power' in the 'topicvalue' list
+Wait for 4 seconds
+Click on 'update' button
+Wait for 2 seconds
+Wait for 2 seconds
+switch to old window
+Wait for 2 seconds
+Click on 'first page' button
+Wait for 2 seconds
+mouseHover on 'timetable app'
+Click on 'launch' button for 'Timetable-Stage'
+Wait for 3 seconds
+Enter 'Elegance' as text for 'tt centre dropdown'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+switch to old window
+Wait for 2 seconds
+Click on 'first page' button
+Wait for 2 seconds
+mouseHover on 'timetable app'
+Click on 'launch' button for 'Timetable-Stage'
+Wait for 3 seconds
+Enter 'Elegance' as text for 'tt centre dropdown'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+switch to old window
+Wait for 2 seconds
+Click on 'first page' button
+Wait for 2 seconds
+mouseHover on 'timetable app'
+Click on 'launch' button for 'Timetable-Stage'
+Wait for 3 seconds
+Enter 'Elegance' as text for 'tt centre dropdown'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+switch to old window
+Wait for 2 seconds
+Click on 'first page' button
+Wait for 2 seconds
+mouseHover on 'timetable app'
+Click on 'launch' button for 'Timetable-Stage'
+Wait for 3 seconds
+Enter 'Elegance' as text for 'tt centre dropdown'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+switch to old window
+Wait for 2 seconds
+Click on 'first page' button
+Wait for 2 seconds
+mouseHover on 'timetable app'
+Click on 'launch' button for 'Timetable-Stage'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+switch to old window
+Wait for 2 seconds
+Click on 'first page' button
+Wait for 2 seconds
+mouseHover on 'timetable app'
+Click on 'launch' button for 'Timetable-Stage'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+switch to old window
+Wait for 2 seconds
+Click on 'first page' button
+Wait for 2 seconds
+mouseHover on 'timetable app'
+Click on 'launch' button for 'Timetable-Stage'
+Wait for 3 seconds
+Enter 'Elegance' as text for 'tt centre dropdown'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+switch to old window
+Wait for 2 seconds
+Click on 'first page' button
+Wait for 2 seconds
+mouseHover on 'timetable app'
+Click on 'launch' button for 'Timetable-Stage'
+Wait for 3 seconds
+Next window opens
+Enter 'Elegance' as text for 'tt centre dropdown'
+Wait for 2 seconds
+Select 'Elegance' in the 'tt centre name' list
+Wait for 3 seconds
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'tt batch drpdown'
+Wait for 2 seconds
+Select 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' in the 'tt batch name' list
+Wait for 2 seconds
+Click on 'text' button for 'Apply'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+switch to old window
+Wait for 2 seconds
+Click on 'first page' button
+Wait for 2 seconds
+mouseHover on 'timetable app'
+Click on 'launch' button for 'Timetable-Stage'
+Wait for 3 seconds
+Next window opens
+Enter 'Elegance' as text for 'tt centre dropdown'
+Wait for 2 seconds
+Select 'Elegance' in the 'tt centre name' list
+Wait for 3 seconds
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'tt batch drpdown'
+Wait for 2 seconds
+Select 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' in the 'tt batch name' list
+Wait for 2 seconds
+Click on 'text' button for 'Apply'
+Wait for 2 seconds
+Click on 'text' button for 'Month'
+Wait for 2 seconds
+Validate 'October month' is displayed
+Click on 'text' button for 'Next'
+Validate 'November month' is displayed
+Click on 'text' button for 'Next'
+Validate 'December month' is displayed
+Wait for 2 seconds
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+switch to old window
+Wait for 2 seconds
+Click on 'first page' button
+Wait for 2 seconds
+mouseHover on 'timetable app'
+Click on 'launch' button for 'Timetable-Stage'
+Wait for 3 seconds
+Next window opens
+Enter 'Elegance' as text for 'tt centre dropdown'
+Wait for 2 seconds
+Select 'Elegance' in the 'tt centre name' list
+Wait for 3 seconds
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'tt batch drpdown'
+Wait for 2 seconds
+Select 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' in the 'tt batch name' list
+Wait for 2 seconds
+Click on 'text' button for 'Apply'
+Wait for 2 seconds
+Click on 'text' button for 'Month'
+Wait for 2 seconds
+Validate 'October month' is displayed
+Click on 'text' button for 'Next'
+Validate 'November month' is displayed
+Click on 'text' button for 'Next'
+Validate 'December month' is displayed
+Wait for 2 seconds
+Validate 'tt end sessions' list with count '01'
+Wait for 2 seconds
+switch to old window
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '29'
+Wait for 2 seconds
+Click on 'effectivedate' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '29'
+Wait for 2 seconds
+Click on 'effectivedate' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '29'
+Wait for 2 seconds
+Click on 'effectivedate' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '29'
+Wait for 2 seconds
+Click on 'effectivedate' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '29'
+Wait for 2 seconds
+Click on 'effectivedate' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '29'
+Wait for 2 seconds
+Click on 'effectivedate' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '29'
+Wait for 2 seconds
+Click on 'effectivedate' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '31'
+Wait for 2 seconds
+Click on 'effectivedate' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '31'
+Wait for 2 seconds
+Click on 'effectivedate' button
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '31'
+Wait for 2 seconds
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Wait for 2 seconds
+Select '[384050] - 35745 - power' in the 'topicvalue' list
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '31'
+Wait for 2 seconds
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Click on 'topicdrop' button
+Enter '[384050] - 35745 - power' as text for 'topicdrop'
+Wait for 2 seconds
+Wait for 4 seconds
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Click on 'passwordNext' button
+Wait
+Click on 'nextpage' button
+mouseHover on 'paid batches app'
+Wait for 2 seconds
+Click on 'launch' button for 'Paid Batches-Stage'
+Wait
+New window opens
+Wait
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox'
+Wait for 4 seconds
+Click on 'search' button
+Wait for 2 seconds
+Click on 'actionslot' button
+Wait for 2 seconds
+Click on 'enddate' button
+Wait for 2 seconds
+Click on 'all dates' button for '31'
+Wait for 2 seconds
+Wait for 2 seconds
+Click on 'radioclick' button
+Wait for 2 seconds
+Click on 'topicdrop' button
+Enter '[384050] - 35745 - power' as text for 'topicdrop'
+Wait for 2 seconds
+Click on 'roombutton' button
+Enter '2' as text for 'roombutton'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Click on 'next' button
+Wait for 2 seconds
+Enter 'config:login>password' as text for 'password'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button
+Enter 'config:login>email' as text for 'email'
+Open "BMS" Portal using Chrome
+login to BMS Portal
+Click on 'Login' button

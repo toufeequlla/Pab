@@ -1,0 +1,2 @@
+
+pagefactorymodulepath = "WebTestCases.BLC.PageFactory"

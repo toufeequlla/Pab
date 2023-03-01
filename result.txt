@@ -1,0 +1,3380 @@
+Adding gif file -- @1.1 TestData: 
+Open "https://blc-cms.stage.tllms.com/" Portal using Chrome:	Status.passed
+login to CMS Portal:	Status.failed
+
+Adding gif file -- @1.1 TestData:Status.failed
+
+Adding gif file -- @1.1 TestData: 
+Open "https://blc-cms.stage.tllms.com/" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'Sign in' button:	Status.passed
+Enter 'config:login>email' as text for 'sign in email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+Refresh the page:	Status.passed
+login to CMS Portal:	Status.passed
+wait for 5 seconds:	Status.passed
+Click on 'gif' button:	Status.passed
+Click on 'Upload Gif' button:	Status.passed
+Enter 'Auto_Gif<dynamic>' as text for 'Name':	Status.failed
+
+Adding gif file -- @1.1 TestData:Status.failed
+
+Adding gif file -- @1.1 TestData: 
+Open "https://blc-cms.stage.tllms.com/" Portal using Chrome:	Status.passed
+login to CMS Portal:	Status.failed
+
+Adding gif file -- @1.1 TestData:Status.failed
+
+task: 
+Open "https://blc-apps.stage.tllms.com/applications/batches-stage" Portal using Chrome:	Status.failed
+
+task:Status.failed
+
+task: 
+Open "https://blc-apps.stage.tllms.com/applications/batches-stage" Portal using Chrome:	Status.passed
+
+task:Status.passed
+
+task: 
+Open "https://blc-apps.stage.tllms.com/applications/batches-stage" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.failed
+login to BMS Portal:	Status.failed
+
+task:Status.failed
+
+task: 
+Open "https://blc-apps.stage.tllms.com/applications/batches-stage" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.failed
+login to BMS Portal:	Status.failed
+
+task:Status.failed
+
+task: 
+Open "https://blc-apps.stage.tllms.com/applications/batches-stage" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.failed
+login to BMS Portal:	Status.failed
+
+task:Status.failed
+
+task: 
+Open "https://blc-apps.stage.tllms.com/applications/batches-stage" Portal using Chrome:	Status.passed
+Refresh the page:	Status.passed
+Click on 'Login' button:	Status.failed
+login to BMS Portal:	Status.failed
+
+task:Status.failed
+
+task: 
+Open "https://blc-apps.stage.tllms.com/applications/batches-stage" Portal using Chrome:	Status.passed
+Refresh the page:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+mouseHover on 'paid batches app':	Status.failed
+
+task:Status.failed
+
+Adding gif file -- @1.1 TestData: 
+Open "https://blc-cms.stage.tllms.com/" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'Sign in' button:	Status.passed
+Enter 'config:login>email' as text for 'sign in email':	Status.failed
+login to CMS Portal:	Status.failed
+
+Adding gif file -- @1.1 TestData:Status.failed
+
+task: 
+Open "https://blc-apps.stage.tllms.com/applications/batches-stage" Portal using Chrome:	Status.passed
+Refresh the page:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+mouseHover on 'paid batches app':	Status.failed
+
+task:Status.failed
+
+Adding gif file -- @1.1 TestData: 
+Open "https://blc-cms.stage.tllms.com/" Portal using Chrome:	Status.passed
+login to CMS Portal:	Status.passed
+wait for 5 seconds:	Status.passed
+Click on 'gif' button:	Status.passed
+Click on 'Upload Gif' button:	Status.passed
+Enter 'Auto_Gif<dynamic>' as text for 'Name':	Status.failed
+
+Adding gif file -- @1.1 TestData:Status.failed
+
+Adding gif file -- @1.1 TestData: 
+Open "https://blc-cms.stage.tllms.com/" Portal using Chrome:	Status.passed
+login to CMS Portal:	Status.passed
+wait for 5 seconds:	Status.passed
+Click on 'gif' button:	Status.passed
+Click on 'Upload Gif' button:	Status.passed
+Enter 'Auto_Gif<dynamic>' as text for 'Name':	Status.failed
+
+Adding gif file -- @1.1 TestData:Status.failed
+
+task: 
+Open "https://blc-apps.stage.tllms.com/applications/batches-stage" Portal using Chrome:	Status.passed
+Refresh the page:	Status.passed
+Click on 'Login' button:	Status.failed
+login to BMS Portal:	Status.failed
+
+task:Status.failed
+
+task: 
+Open "https://blc-apps.stage.tllms.com/applications/batches-stage" Portal using Chrome:	Status.passed
+Refresh the page:	Status.passed
+Click on 'Login' button:	Status.failed
+login to BMS Portal:	Status.failed
+
+task:Status.failed
+
+task: 
+
+task:Status.failed
+
+task: 
+Open "BMS" Portal using Chrome:	Status.passed
+Refresh the page:	Status.passed
+Click on 'Login' button:	Status.failed
+login to BMS Portal:	Status.failed
+
+task:Status.failed
+
+task: 
+Open "BMS" Portal using Chrome:	Status.passed
+Wait for 2 seconds:	Status.passed
+Refresh the page:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+
+task:Status.passed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Wait for 2 seconds:	Status.passed
+Refresh the page:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Wait for 2 seconds:	Status.passed
+Refresh the page:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+mouseHover on 'paid batches app':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+mouseHover on 'paid batches app':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+mouseHover on 'paid batches app':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 5 seconds:	Status.passed
+Validate 'Table body' with xpath '//textarea[contains(text(),'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022')]' is displayed:	Status.passed
+Wait:	Status.passed
+Refresh the page:	Status.passed
+Wait for 5 seconds:	Status.passed
+Click on 'searchdropdown' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 5 seconds:	Status.passed
+Validate 'Table body' with xpath '//textarea[contains(text(),'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022')]' is displayed:	Status.passed
+Wait:	Status.passed
+Refresh the page:	Status.passed
+Wait for 5 seconds:	Status.passed
+Click on 'searchdropdown' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 5 seconds:	Status.passed
+Validate 'Table body' with xpath '//textarea[contains(text(),'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022')]' is displayed:	Status.passed
+Wait:	Status.passed
+Refresh the page:	Status.passed
+Wait for 5 seconds:	Status.passed
+Click on 'searchdropdown' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 5 seconds:	Status.passed
+Validate 'Table body' with xpath '//textarea[contains(text(),'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022')]' is displayed:	Status.passed
+Wait:	Status.passed
+Refresh the page:	Status.passed
+Wait for 5 seconds:	Status.passed
+Click on 'searchdropdown' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 5 seconds:	Status.passed
+Validate 'Table body' with xpath '//textarea[contains(text(),'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022')]' is displayed:	Status.passed
+Wait:	Status.passed
+Refresh the page:	Status.passed
+Wait for 5 seconds:	Status.passed
+Click on 'searchdropdown' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 5 seconds:	Status.passed
+Validate 'Table body' with xpath '//textarea[contains(text(),'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022')]' is displayed:	Status.passed
+Wait:	Status.passed
+Refresh the page:	Status.passed
+Wait for 5 seconds:	Status.passed
+Click on 'searchdropdown' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 5 seconds:	Status.passed
+Validate 'Table body' with xpath '//textarea[contains(text(),'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022')]' is displayed:	Status.passed
+Wait:	Status.passed
+Refresh the page:	Status.passed
+Wait for 5 seconds:	Status.passed
+Click on 'searchdropdown' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 5 seconds:	Status.passed
+Validate 'Table body' with xpath '//textarea[contains(text(),'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022')]' is displayed:	Status.passed
+Wait:	Status.passed
+Refresh the page:	Status.passed
+Wait for 5 seconds:	Status.passed
+Click on 'searchdropdown' button:	Status.passed
+Wait for 5 seconds:	Status.passed
+Click on 'id name dropdown' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 5 seconds:	Status.passed
+Validate 'Table body' with xpath '//textarea[contains(text(),'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022')]' is displayed:	Status.passed
+Wait:	Status.passed
+Refresh the page:	Status.passed
+Wait for 5 seconds:	Status.passed
+Click on 'searchdropdown' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 5 seconds:	Status.passed
+Validate 'Table body' with xpath '//textarea[contains(text(),'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022')]' is displayed:	Status.passed
+Wait:	Status.passed
+Refresh the page:	Status.passed
+Wait for 5 seconds:	Status.passed
+Click on 'searchdropdown' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 5 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+
+task -- @1.1 TestData:Status.passed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 10 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+
+task -- @1.1 TestData:Status.passed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 10 seconds:	Status.passed
+Validate 'Table body' with xpath '//span[contains(text(),7615)]' is displayed:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_VIII_155_CBSE_Mumbai_Kalyan_mumbai_2_2022_6_27_d0c4' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 10 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 10 seconds:	Status.passed
+
+task -- @1.1 TestData:Status.passed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter '<batch_name>' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 10 seconds:	Status.passed
+Click on 'actionslot' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 10 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 10 seconds:	Status.passed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.failed
+login to BMS Portal:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 10 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 10 seconds:	Status.passed
+mouseHover on 'enddate':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 10 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 10 seconds:	Status.passed
+mouseHover on 'enddate':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 10 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 10 seconds:	Status.passed
+mouseHover on 'enddate':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 10 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 10 seconds:	Status.passed
+mouseHover on 'enddate':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 10 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 10 seconds:	Status.passed
+mouseHover on 'enddate':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 10 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 10 seconds:	Status.passed
+mouseHover on 'ed':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 10 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 10 seconds:	Status.passed
+mouseHover on 'ed':	Status.passed
+Wait for 10 seconds:	Status.passed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'update' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'update' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+
+task -- @1.1 TestData:Status.passed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'update' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+
+task -- @1.1 TestData:Status.passed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'update' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+
+task -- @1.1 TestData:Status.passed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'update' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+
+task -- @1.1 TestData:Status.passed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enclan' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enclan' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on '24' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on '24' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on '24' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on '24' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on '24' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on '24' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '24':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'effectivedate' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '24':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter '<topic>' as text for 'sea':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '24':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'topicdrop' button:	Status.passed
+Click on 'topicvalue' button for '[384050] - 35745 - power':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '24':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'topicdrop' button:	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'topicvalue' button for '[384050] - 35745 - power':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '24':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'topicdrop' button:	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'topicvalue' button for '[384050] - 35745 - power':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '24':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'topicdrop' button:	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'topicvalue' button for '[384050] - 35745 - power':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '24':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'topicdrop' button:	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'topicvalue' button for '[384050] - 35745 - power':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '24':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter '[384050] - 35745 - power' as text for 'topicdrop':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'topicvalue' button for '[384050] - 35745 - power':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '24':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter '[384050] - 35745 - power' as text for 'topicdrop':	Status.passed
+Wait for 4 seconds:	Status.passed
+Select '[384050] - 35745 - power' in the 'topicvalue' list:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '24':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter '[384050] - 35745 - power' as text for 'topicdrop':	Status.passed
+Wait for 4 seconds:	Status.passed
+Select '[384050] - 35745 - power' in the 'topicvalue' list:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '24':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter '[384050] - 35745 - power' as text for 'topicdrop':	Status.passed
+Wait for 2 seconds:	Status.passed
+Select '[384050] - 35745 - power' in the 'topicvalue' list:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '24':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter '[384050] - 35745 - power' as text for 'topicdrop':	Status.passed
+Wait for 2 seconds:	Status.passed
+Select '[384050] - 35745 - power' in the 'topicvalue' list:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '24':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter '[384050] - 35745 - power' as text for 'topicdrop':	Status.passed
+Wait for 2 seconds:	Status.passed
+Select '[384050] - 35745 - power' in the 'topicvalue' list:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '24':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter '[384050] - 35745 - power' as text for 'topicdrop':	Status.passed
+Wait for 2 seconds:	Status.passed
+Select '[384050] - 35745 - power' in the 'topicvalue' list:	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'update' button:	Status.passed
+
+task -- @1.1 TestData:Status.passed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '24':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '24':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter '[384050] - 35745 - power' as text for 'topicdrop':	Status.passed
+Wait for 2 seconds:	Status.passed
+Select '[384050] - 35745 - power' in the 'topicvalue' list:	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'update' button:	Status.passed
+
+task -- @1.1 TestData:Status.passed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button:	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '24':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter '[384050] - 35745 - power' as text for 'topicdrop':	Status.passed
+Wait for 2 seconds:	Status.passed
+Select '[384050] - 35745 - power' in the 'topicvalue' list:	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'update' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Wait for 2 seconds:	Status.passed
+switch to old window:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'first page' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+mouseHover on 'timetable app':	Status.passed
+Click on 'launch' button for 'Timetable-Stage':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '24':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter '[384050] - 35745 - power' as text for 'topicdrop':	Status.passed
+Wait for 2 seconds:	Status.passed
+Select '[384050] - 35745 - power' in the 'topicvalue' list:	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'update' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Wait for 2 seconds:	Status.passed
+Validate 'Batch updated successfully' is displayed:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '24':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter '[384050] - 35745 - power' as text for 'topicdrop':	Status.passed
+Wait for 2 seconds:	Status.passed
+Select '[384050] - 35745 - power' in the 'topicvalue' list:	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'update' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Wait for 2 seconds:	Status.passed
+switch to old window:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'first page' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+mouseHover on 'timetable app':	Status.passed
+Click on 'launch' button for 'Timetable-Stage':	Status.passed
+Wait for 2 seconds:	Status.passed
+New window opens:	Status.passed
+Wait for 5 seconds:	Status.passed
+Enter '<Centre>' as text for 'tt centre drpdown':	Status.passed
+Wait for 2 seconds:	Status.passed
+Select '<Centre>' in the 'tt centre name' list:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.failed
+login to BMS Portal:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '24':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter '[384050] - 35745 - power' as text for 'topicdrop':	Status.passed
+Wait for 2 seconds:	Status.passed
+Select '[384050] - 35745 - power' in the 'topicvalue' list:	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'update' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Wait for 2 seconds:	Status.passed
+switch to old window:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'first page' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+mouseHover on 'timetable app':	Status.passed
+Click on 'launch' button for 'Timetable-Stage':	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'Elegance' as text for 'tt centre drpdown':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '24':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '25':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter '[384050] - 35745 - power' as text for 'topicdrop':	Status.passed
+Wait for 2 seconds:	Status.passed
+Select '[384050] - 35745 - power' in the 'topicvalue' list:	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'update' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Wait for 2 seconds:	Status.passed
+switch to old window:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'first page' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+mouseHover on 'timetable app':	Status.passed
+Click on 'launch' button for 'Timetable-Stage':	Status.passed
+Wait for 2 seconds:	Status.passed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.failed
+login to BMS Portal:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '26':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter '[384050] - 35745 - power' as text for 'topicdrop':	Status.passed
+Wait for 2 seconds:	Status.passed
+Select '[384050] - 35745 - power' in the 'topicvalue' list:	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'update' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Wait for 2 seconds:	Status.passed
+switch to old window:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'first page' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+mouseHover on 'timetable app':	Status.passed
+Click on 'launch' button for 'Timetable-Stage':	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'Elegance' as text for 'tt centre drpdown':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.failed
+login to BMS Portal:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '28':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '28':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '28':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter '[384050] - 35745 - power' as text for 'topicdrop':	Status.passed
+Wait for 2 seconds:	Status.passed
+Select '[384050] - 35745 - power' in the 'topicvalue' list:	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'update' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Wait for 2 seconds:	Status.passed
+switch to old window:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'first page' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+mouseHover on 'timetable app':	Status.passed
+Click on 'launch' button for 'Timetable-Stage':	Status.passed
+Wait for 3 seconds:	Status.passed
+Enter 'Elegance' as text for 'tt centre dropdown':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '28':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '29':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '29':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter '[384050] - 35745 - power' as text for 'topicdrop':	Status.passed
+Wait for 2 seconds:	Status.passed
+Select '[384050] - 35745 - power' in the 'topicvalue' list:	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'update' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Wait for 2 seconds:	Status.passed
+switch to old window:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'first page' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+mouseHover on 'timetable app':	Status.passed
+Click on 'launch' button for 'Timetable-Stage':	Status.passed
+Wait for 3 seconds:	Status.passed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '29':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter '[384050] - 35745 - power' as text for 'topicdrop':	Status.passed
+Wait for 2 seconds:	Status.passed
+Select '[384050] - 35745 - power' in the 'topicvalue' list:	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'update' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Wait for 2 seconds:	Status.passed
+switch to old window:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'first page' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+mouseHover on 'timetable app':	Status.passed
+Click on 'launch' button for 'Timetable-Stage':	Status.passed
+Wait for 3 seconds:	Status.passed
+Enter 'Elegance' as text for 'tt centre dropdown':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+switch to old window:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'first page' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+mouseHover on 'timetable app':	Status.passed
+Click on 'launch' button for 'Timetable-Stage':	Status.passed
+Wait for 3 seconds:	Status.passed
+Enter 'Elegance' as text for 'tt centre dropdown':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+switch to old window:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'first page' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+mouseHover on 'timetable app':	Status.passed
+Click on 'launch' button for 'Timetable-Stage':	Status.passed
+Wait for 3 seconds:	Status.passed
+Enter 'Elegance' as text for 'tt centre dropdown':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+switch to old window:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'first page' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+mouseHover on 'timetable app':	Status.passed
+Click on 'launch' button for 'Timetable-Stage':	Status.passed
+Wait for 3 seconds:	Status.passed
+Enter 'Elegance' as text for 'tt centre dropdown':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+switch to old window:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'first page' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+mouseHover on 'timetable app':	Status.passed
+Click on 'launch' button for 'Timetable-Stage':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+switch to old window:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'first page' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+mouseHover on 'timetable app':	Status.passed
+Click on 'launch' button for 'Timetable-Stage':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+switch to old window:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'first page' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+mouseHover on 'timetable app':	Status.passed
+Click on 'launch' button for 'Timetable-Stage':	Status.passed
+Wait for 3 seconds:	Status.passed
+Enter 'Elegance' as text for 'tt centre dropdown':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+switch to old window:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'first page' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+mouseHover on 'timetable app':	Status.passed
+Click on 'launch' button for 'Timetable-Stage':	Status.passed
+Wait for 3 seconds:	Status.passed
+Next window opens:	Status.passed
+Enter 'Elegance' as text for 'tt centre dropdown':	Status.passed
+Wait for 2 seconds:	Status.passed
+Select 'Elegance' in the 'tt centre name' list:	Status.passed
+Wait for 3 seconds:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'tt batch drpdown':	Status.passed
+Wait for 2 seconds:	Status.passed
+Select 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' in the 'tt batch name' list:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'text' button for 'Apply':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+switch to old window:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'first page' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+mouseHover on 'timetable app':	Status.passed
+Click on 'launch' button for 'Timetable-Stage':	Status.passed
+Wait for 3 seconds:	Status.passed
+Next window opens:	Status.passed
+Enter 'Elegance' as text for 'tt centre dropdown':	Status.passed
+Wait for 2 seconds:	Status.passed
+Select 'Elegance' in the 'tt centre name' list:	Status.passed
+Wait for 3 seconds:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'tt batch drpdown':	Status.passed
+Wait for 2 seconds:	Status.passed
+Select 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' in the 'tt batch name' list:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'text' button for 'Apply':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'text' button for 'Month':	Status.passed
+Wait for 2 seconds:	Status.passed
+Validate 'October month' is displayed:	Status.passed
+Click on 'text' button for 'Next':	Status.passed
+Validate 'November month' is displayed:	Status.passed
+Click on 'text' button for 'Next':	Status.passed
+Validate 'December month' is displayed:	Status.passed
+Wait for 2 seconds:	Status.passed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+switch to old window:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'first page' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+mouseHover on 'timetable app':	Status.passed
+Click on 'launch' button for 'Timetable-Stage':	Status.passed
+Wait for 3 seconds:	Status.passed
+Next window opens:	Status.passed
+Enter 'Elegance' as text for 'tt centre dropdown':	Status.passed
+Wait for 2 seconds:	Status.passed
+Select 'Elegance' in the 'tt centre name' list:	Status.passed
+Wait for 3 seconds:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'tt batch drpdown':	Status.passed
+Wait for 2 seconds:	Status.passed
+Select 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' in the 'tt batch name' list:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'text' button for 'Apply':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'text' button for 'Month':	Status.passed
+Wait for 2 seconds:	Status.passed
+Validate 'October month' is displayed:	Status.passed
+Click on 'text' button for 'Next':	Status.passed
+Validate 'November month' is displayed:	Status.passed
+Click on 'text' button for 'Next':	Status.passed
+Validate 'December month' is displayed:	Status.passed
+Wait for 2 seconds:	Status.passed
+Validate 'tt end sessions' list with count '01':	Status.passed
+Wait for 2 seconds:	Status.passed
+switch to old window:	Status.passed
+
+task -- @1.1 TestData:Status.passed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '29':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'effectivedate' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '29':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'effectivedate' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '29':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'effectivedate' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '29':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'effectivedate' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '29':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'effectivedate' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '29':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'effectivedate' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '29':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'effectivedate' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '31':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'effectivedate' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '31':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'effectivedate' button:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '31':	Status.passed
+Wait for 2 seconds:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Wait for 2 seconds:	Status.passed
+Select '[384050] - 35745 - power' in the 'topicvalue' list:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '31':	Status.passed
+Wait for 2 seconds:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'topicdrop' button:	Status.passed
+Enter '[384050] - 35745 - power' as text for 'topicdrop':	Status.passed
+Wait for 2 seconds:	Status.passed
+Wait for 4 seconds:	Status.passed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.passed
+Click on 'passwordNext' button:	Status.passed
+Wait:	Status.passed
+login to BMS Portal:	Status.passed
+Click on 'nextpage' button:	Status.passed
+mouseHover on 'paid batches app':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'launch' button for 'Paid Batches-Stage':	Status.passed
+Wait:	Status.passed
+New window opens:	Status.passed
+Wait:	Status.passed
+Enter 'Standard_IX_15_CBSE_Port_Blair_Elegance_2_2022_9_6_5817' as text for 'searchbox':	Status.passed
+Wait for 4 seconds:	Status.passed
+Click on 'search' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'actionslot' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'enddate' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'all dates' button for '31':	Status.passed
+Wait for 2 seconds:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'radioclick' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'topicdrop' button:	Status.passed
+Enter '[384050] - 35745 - power' as text for 'topicdrop':	Status.passed
+Wait for 2 seconds:	Status.passed
+Click on 'roombutton' button:	Status.passed
+Enter '2' as text for 'roombutton':	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.failed
+login to BMS Portal:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.passed
+Click on 'next' button:	Status.passed
+Wait for 2 seconds:	Status.passed
+Enter 'config:login>password' as text for 'password':	Status.failed
+login to BMS Portal:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.passed
+Enter 'config:login>email' as text for 'email':	Status.failed
+login to BMS Portal:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+
+task -- @1.1 TestData: 
+Open "BMS" Portal using Chrome:	Status.passed
+Click on 'Login' button:	Status.failed
+login to BMS Portal:	Status.failed
+
+task -- @1.1 TestData:Status.failed
+

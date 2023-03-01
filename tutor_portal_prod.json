@@ -1,0 +1,11 @@
+{
+  "login": {"username":"btc_automation@byjus.com", "password":"BTC@1234"},
+  "StudentLogin": {"StudentUsername": "1808202221","StudentPassword":"password123","StudentUserId":"2910355","StudentName": "Prod Automation Test Data"},
+  "CentreData": {"CentreName": "BTC AUTOMATION PROD","RoomNUm":"1"},
+  "SessionTimeData" : {"DateAndDay" :"23rd June, Thursday" ,"SessionTime": "08:10 AM - 08:00 PM"},
+  "SubjectDetails"  : {"ChapterName" :"Statistics & Probability", "Subject" : "Mathematics",
+    "Syllabus": "CBSE" , "Grade": "Standard IX"},
+  "SlideNo" : {"ImageSlide": "01" , "VideoSlide" : "02","PollSlide": "03","gif": "04"},
+  "url": {"studentPortalUrl":"https://learn.byjus.com/login","tutorPortalUrl": "https://tutor.blc.tllms.com"}
+
+}

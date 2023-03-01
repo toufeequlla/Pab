@@ -1,0 +1,1 @@
+from WebTestCases.BLC.PageFactory import *
